@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# LeetCode local credentials and history
+.venv/
+__pycache__/
+.env
+*.pyc
+.env.*
+!.env.example
+leetcode-catalog*.json
+mcp-config*.json

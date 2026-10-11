@@ -1,0 +1,6 @@
+[project]
+name = "leetcode-study-mcp"
+version = "0.1.0"
+description = "Read-only LeetCode history and hint-free practice recommendations"
+requires-python = ">=3.10"
+dependencies = ["mcp>=1.12,<2"]
